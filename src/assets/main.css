@@ -1,0 +1,23 @@
+@import './login.css';
+@import './modal.css';
+@import './pagination.css';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  font-family: "Montserrat", serif;
+  background: #ffffff;
+  margin: 0;
+}
+
+h1,
+p {
+  margin: 0;
+}
+
+/* Medium screens */
+@media (min-width: 768px) {
+}
+
+/* Large screens */
+@media (min-width: 1024px) {
+}

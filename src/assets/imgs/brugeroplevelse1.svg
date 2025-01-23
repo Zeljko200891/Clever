@@ -1,0 +1,51 @@
+<svg width="256" height="160" viewBox="0 0 256 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Brugeroplevelse_illustration">
+<rect id="Rectangle 1241" width="256" height="160" fill="#CCD7D6"/>
+<g id="Device - Macbook Pro" filter="url(#filter0_d_1_2189)">
+<g id="Shadow" opacity="0.4" filter="url(#filter1_f_1_2189)">
+<ellipse cx="129.168" cy="138.027" rx="88.0499" ry="0.972927" fill="black"/>
+</g>
+<g id="Top">
+<g id="Lid">
+<mask id="path-3-inside-1_1_2189" fill="white">
+<path d="M50.0696 29.4483C50.0696 26.4392 52.5089 23.9999 55.518 23.9999H203.403C206.412 23.9999 208.851 26.4392 208.851 29.4483V131.022C208.851 131.452 208.503 131.8 208.073 131.8H50.8479C50.4181 131.8 50.0696 131.452 50.0696 131.022V29.4483Z"/>
+</mask>
+<path d="M50.0696 29.4483C50.0696 26.4392 52.5089 23.9999 55.518 23.9999H203.403C206.412 23.9999 208.851 26.4392 208.851 29.4483V131.022C208.851 131.452 208.503 131.8 208.073 131.8H50.8479C50.4181 131.8 50.0696 131.452 50.0696 131.022V29.4483Z" stroke="#003732" stroke-width="2" mask="url(#path-3-inside-1_1_2189)"/>
+</g>
+<g id="Screen Wrap">
+<rect id="Screen" x="54.6558" y="30.532" width="148.831" height="92.401" fill="#CCD7D6" stroke="#003732"/>
+</g>
+</g>
+<g id="Bottom">
+<g id="Base">
+<mask id="path-5-inside-2_1_2189" fill="white">
+<path d="M31 131.411C31 131.196 31.1742 131.022 31.3892 131.022H226.753C226.968 131.022 227.142 131.196 227.142 131.411V134.525H31V131.411Z"/>
+</mask>
+<path d="M30 131.411C30 130.644 30.622 130.022 31.3892 130.022H226.753C227.52 130.022 228.142 130.644 228.142 131.411L226.142 132.022H32L30 131.411ZM227.142 134.525H31H227.142ZM30 134.525V131.411C30 130.644 30.622 130.022 31.3892 130.022L32 132.022V134.525H30ZM226.753 130.022C227.52 130.022 228.142 130.644 228.142 131.411V134.525H226.142V132.022L226.753 130.022Z" fill="#003732" mask="url(#path-5-inside-2_1_2189)"/>
+</g>
+<path id="Bottom Curve" d="M52.9286 138.5C46.325 138.5 39.7814 137.321 33.6045 135.025H224.293C217.488 137.324 210.347 138.5 203.152 138.5H52.9286Z" stroke="#003732"/>
+<path id="Groove" d="M115.839 133.246C114.745 133.246 113.82 132.519 113.522 131.522H144.815C144.517 132.519 143.592 133.246 142.497 133.246H115.839Z" stroke="#003732"/>
+</g>
+</g>
+<rect id="Rectangle 1246" x="148.5" y="42.5001" width="81" height="46" fill="#E6EBEB" stroke="#003732"/>
+<rect id="Rectangle 1248" x="31.5" y="42.5001" width="108" height="67" fill="#E6EBEB" stroke="#003732"/>
+<rect id="Rectangle 1247" x="148.5" y="93.4999" width="81" height="17" fill="#E6EBEB" stroke="#003732"/>
+</g>
+<defs>
+<filter id="filter0_d_1_2189" x="25.2255" y="19.7652" width="207.691" height="126.549" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1.53987"/>
+<feGaussianBlur stdDeviation="2.88725"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_2189"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_2189" result="shape"/>
+</filter>
+<filter id="filter1_f_1_2189" x="32.5566" y="128.492" width="193.223" height="19.0694" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="4.28088" result="effect1_foregroundBlur_1_2189"/>
+</filter>
+</defs>
+</svg>

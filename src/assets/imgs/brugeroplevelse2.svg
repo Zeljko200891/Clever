@@ -1,0 +1,39 @@
+<svg width="256" height="160" viewBox="0 0 256 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="160" fill="#99AFAD"/>
+<g filter="url(#filter0_d_1_2210)">
+<g opacity="0.4" filter="url(#filter1_f_1_2210)">
+<ellipse cx="129.168" cy="138.341" rx="88.0499" ry="0.971607" fill="black"/>
+</g>
+<mask id="path-3-inside-1_1_2210" fill="white">
+<path d="M50.0696 29.9166C50.0696 26.9075 52.5089 24.4682 55.518 24.4682H203.403C206.412 24.4682 208.851 26.9075 208.851 29.9166V131.344C208.851 131.774 208.503 132.122 208.073 132.122H50.8479C50.4181 132.122 50.0696 131.774 50.0696 131.344V29.9166Z"/>
+</mask>
+<path d="M50.0696 29.9166C50.0696 26.9075 52.5089 24.4682 55.518 24.4682H203.403C206.412 24.4682 208.851 26.9075 208.851 29.9166V131.344C208.851 131.774 208.503 132.122 208.073 132.122H50.8479C50.4181 132.122 50.0696 131.774 50.0696 131.344V29.9166Z" stroke="#003732" stroke-width="2" mask="url(#path-3-inside-1_1_2210)"/>
+<rect x="54.6558" y="30.9922" width="148.831" height="92.2743" fill="#99AFAD" stroke="#003732"/>
+<mask id="path-5-inside-2_1_2210" fill="white">
+<path d="M31 131.734C31 131.519 31.1742 131.345 31.3892 131.345H226.753C226.968 131.345 227.142 131.519 227.142 131.734V134.843H31V131.734Z"/>
+</mask>
+<path d="M30 131.734C30 130.967 30.622 130.345 31.3892 130.345H226.753C227.52 130.345 228.142 130.967 228.142 131.734L226.142 132.345H32L30 131.734ZM227.142 134.843H31H227.142ZM30 134.843V131.734C30 130.967 30.622 130.345 31.3892 130.345L32 132.345V134.843H30ZM226.753 130.345C227.52 130.345 228.142 130.967 228.142 131.734V134.843H226.142V132.345L226.753 130.345Z" fill="#003732" mask="url(#path-5-inside-2_1_2210)"/>
+<path d="M52.9263 138.812C46.325 138.812 39.7838 137.635 33.608 135.343H224.289C217.485 137.638 210.347 138.812 203.154 138.812H52.9263Z" stroke="#003732"/>
+<path d="M115.839 133.565C114.745 133.565 113.82 132.84 113.522 131.845H144.815C144.516 132.84 143.592 133.565 142.497 133.565H115.839Z" stroke="#003732"/>
+<path d="M116 59.7824L124.642 68.1909L141.626 51.2405" stroke="#003732" stroke-width="0.888889"/>
+</g>
+<rect x="87.5" y="86.8839" width="81" height="16.9756" fill="#668784" stroke="#003732"/>
+<path d="M171.855 106.849L172.224 106.512L171.855 106.849L171.855 106.849L171.856 106.85L171.859 106.853L171.871 106.866L171.919 106.919L172.102 107.121C172.262 107.297 172.492 107.551 172.777 107.867C173.347 108.499 174.133 109.376 175 110.353C176.734 112.31 178.778 114.66 180.051 116.27C180.692 117.122 180.469 118.009 179.843 118.482C179.276 118.911 178.271 118.787 177.538 117.932C176.388 116.591 174.345 114.269 172.591 112.285C171.714 111.293 170.909 110.384 170.323 109.723C170.03 109.393 169.791 109.124 169.627 108.938L169.436 108.724L169.387 108.669L169.374 108.654L169.371 108.651L169.37 108.65L169.37 108.65C169.37 108.65 169.37 108.649 168.996 108.981L169.37 108.649L168.879 108.098L168.549 108.758L164.657 116.537L158.439 92.3631L178.71 104.332L172.1 106.028L171.295 106.234L171.855 106.849Z" fill="#99AFAD" stroke="#003732"/>
+<defs>
+<filter id="filter0_d_1_2210" x="25.2255" y="20.2336" width="207.691" height="126.393" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1.53987"/>
+<feGaussianBlur stdDeviation="2.88725"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_2210"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_2210" result="shape"/>
+</filter>
+<filter id="filter1_f_1_2210" x="32.5564" y="128.807" width="193.223" height="19.0668" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="4.28088" result="effect1_foregroundBlur_1_2210"/>
+</filter>
+</defs>
+</svg>
